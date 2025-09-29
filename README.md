@@ -37,7 +37,7 @@ cloud_based_inventory
   
 ## Setup
 - Clone repo
-   **git clone https:** `https://github.com/sej1306kook-ui/Cloud_based_Inventory/tree/main`
+   **git clone https:** https://github.com/sej1306kook-ui/Cloud_based_Inventory/tree/main
 - **Install dependencies:**
    `pip install -r requirements.txt`
 - **Run project:**
