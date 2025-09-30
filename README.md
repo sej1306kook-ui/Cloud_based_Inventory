@@ -42,7 +42,7 @@ cloud_based_inventory
    `pip install -r requirements.txt`
 - **Run project:**
    `python main.py`
-   
+ 
 ## Usage
 - Run the project: `python main.py`
 - Login as admin (create first admin account if not exists)
