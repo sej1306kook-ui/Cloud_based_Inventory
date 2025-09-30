@@ -10,7 +10,9 @@ Python + MongoDB CLI project for managing products, customers, users, and sales.
 - Sales tracking & reporting
 - Low-stock alerts
 - Total sales calculation for today
-- Best-selling product identification 
+- Best-selling product identification
+- Error handling for invalid IDs and database issues
+- Formatted CLI output for readability
 
 ## Tech Stack
 - **Language:** Python 3.12.10
@@ -25,15 +27,15 @@ Python + MongoDB CLI project for managing products, customers, users, and sales.
 
 ## Project Structure
 cloud_based_inventory
-- db.py
-- product.py
-- customers.py
-- users.py
-- sales.py
-- utils.py
-- main.py
-- README.md
-- requirements.txt
+- **db.py** : MongoDB connection setup
+- **product.py** : Functions to manage products
+- **customers.py** : Functions to manage customers
+- **users.py** : Functions to manage user accounts & authentication
+- **sales.py** : Functions to manage sales and reports
+- **utils.py** : Helper functions 
+- **main.py** : Main CLI interface to run the app
+- **README.md** : Project documentation
+- **requirements.txt** : List of dependencies to install
   
 ## Setup
 - Clone repo
@@ -48,7 +50,7 @@ cloud_based_inventory
 - Login as admin (create first admin account if not exists)
     - **Admin can:**
       - Add/update/delete/view users, products, customers, sales
-      - Generate daily sales report and check best-selling products
+      - Generate daily sales report, check low stocks and best-selling products
     - **Staff can:**
         - View products, customers, sales
 - Exit app from main menu
