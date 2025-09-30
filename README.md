@@ -55,7 +55,7 @@ cloud_based_inventory
 
 
 ## License
-MIT License
+ **MIT License**
 
 ## Author
-Sejal
+ **Sejal**
