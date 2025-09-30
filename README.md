@@ -2,7 +2,7 @@
 Python + MongoDB CLI project for managing products, customers, users, and sales.
 
 ## Features
-- Mange products: add, update, delete, view
+- Manage products: add, update, delete, view
 - Manage customers: add, update, delete, view
 - Manage sales: add, update, delete, view
 - Manage users: add, update, delete, view
@@ -37,7 +37,7 @@ cloud_based_inventory
   
 ## Setup
 - Clone repo
-   **git clone https:** https://github.com/sej1306kook-ui/Cloud_based_Inventory/tree/main
+   **git clone:** https://github.com/sej1306kook-ui/Cloud_based_Inventory/tree/main
 - **Install dependencies:**
    `pip install -r requirements.txt`
 - **Run project:**
