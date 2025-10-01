@@ -46,17 +46,17 @@ cloud_based_inventory
    `python main.py`
  
 ## Usage
-- Run the project: `python main.py`
-- When running for the first time, create an Admin account (required to manage the system).
-    - **Admin features:**
+1. Run the project: `python main.py`
+2. when running for the first time, create an Admin account (required to manage the system).
+3. **Admin can:**
       - Add, update, delete, and view users, products, customers, and sales
       - Generate daily sales reports
       - Check low stock alerts
       - View best-selling products
-    - **Staff features:**
+4. **Staff can:**
       - View products, customers, and sales
       - Logout/Exit from the main menu
-- Exit app from main menu
+5. Exit app from main menu
 
 ## License
  **MIT License**
