@@ -47,14 +47,16 @@ cloud_based_inventory
  
 ## Usage
 - Run the project: `python main.py`
-- Login as admin (create first admin account if not exists)
-    - **Admin can:**
-      - Add/update/delete/view users, products, customers, sales
-      - Generate daily sales report, check low stocks and best-selling products
-    - **Staff can:**
-        - View products, customers, sales
+- When running for the first time, create an Admin account (required to manage the system).
+    - **Admin features:**
+      - Add, update, delete, and view users, products, customers, and sales
+      - Generate daily sales reports
+      - Check low stock alerts
+      - View best-selling products
+    - **Staff features:**
+      - View products, customers, and sales
+      - Logout/Exit from the main menu
 - Exit app from main menu
-
 
 ## License
  **MIT License**
