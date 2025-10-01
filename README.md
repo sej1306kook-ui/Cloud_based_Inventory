@@ -26,7 +26,7 @@ Python + MongoDB CLI project for managing products, customers, users, and sales.
   - `re`
 
 ## Project Structure
-cloud_based_inventory
+**cloud_based_inventory**
 - **db.py** : MongoDB connection setup
 - **product.py** : Functions to manage products
 - **customers.py** : Functions to manage customers
@@ -38,12 +38,17 @@ cloud_based_inventory
 - **requirements.txt** : List of dependencies to install
   
 ## Setup
-- Clone repo
-   **git clone:** https://github.com/sej1306kook-ui/Cloud_based_Inventory/tree/main
-- **Install dependencies:**
-   `pip install -r requirements.txt`
-- **Run project:**
-   `python main.py`
+
+1. ### Clone the repository
+  - **Github repository:** https://github.com/sej1306kook-ui/Cloud_based_Inventory
+    
+    -  **Or via terminal**
+      
+  - `git clone: https://github.com/sej1306kook-ui/Cloud_based_Inventory.git`
+2.  ### Install dependencies:
+  - `pip install -r requirements.txt`
+3.  ### Run project:
+  - `python main.py`
  
 ## Usage
 1. Run the project: `python main.py`
@@ -56,8 +61,22 @@ cloud_based_inventory
 4. **Staff can:**
       - View products, customers, and sales
       - Logout/Exit from the main menu
-5. Exit app from main menu
 
+## Real-World Applications
+**This project demonstrates how an inventory management system can be used in real business scenarios:**
+
+- **Retail Shops / Kirana stores :** Manage daily sales, track low-stock items, and identify best-selling products.
+  
+- **Pharmacies / Medical Store :** Keep records of medicines, monitor expiry/low stock, and generate daily reports.
+ 
+- **Restaurants / Cafes:** Track menu items, sales, and ingredients stock levels.
+ 
+- **Wholesale Businesses / Warehouses:** Manage large inventories, suppliers, and customer sales records.
+ 
+- **E-commerce Sellers:** Maintain product listings, sales data, and ensure timely stock replenishment.
+
+- **Event Management Companies:** Track inventory of event materials (decorations, equipment), manage clients (customers), and record sales of services/items.
+  
 ## License
  **MIT License**
 
