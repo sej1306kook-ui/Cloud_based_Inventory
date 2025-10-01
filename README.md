@@ -1,5 +1,5 @@
 # Cloud Inventory & Sales Management 
-Python + MongoDB CLI project for managing products, customers, users, and sales.
+**Python + MongoDB CLI project for managing products, customers, users, and sales.**
 
 ## Features
 - Manage products: add, update, delete, view
